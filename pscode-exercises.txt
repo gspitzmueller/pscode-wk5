@@ -1,0 +1,26 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+sum of a and b = (a+b)
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+IF x (is even) => perform this action
+	ELSE ((this will happen if the number is not even)) => perform this other action
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+a) accept input for 5 numbers assigned to a, b, c, d and e. Each number will be assigned one letter. a=2 b=5 c=7 d=3 e=9
+b) average = ((a+b+c+d+e)/5)
+c) min (a, b, c, d, e) max (a, b, c, d, e)
+d) The average of the 5 numbers is 5.2. The min is 2 and max is 9.
+
+
+
+-- END --
